@@ -6,7 +6,8 @@ The project transforms survey data into meaningful business insights to help org
 
 ## 📁 Project Files
 
-- **[📥 Cleaned Survey Dataset (Excel)](cleaned-survey-data-for-eda.xlsx)** — Cleaned survey data used for exploratory data analysis and dashboard development.
+- **[📥 Download the Cleaned Survey Dataset](1791608093788-clean%20Survey%20Data.zip)**
+-  Cleaned survey data used for exploratory data analysis and dashboard development.
 - **Global Dashboard** — Overview of workplace preferences and trends across countries.
 - **India Dashboard** — Country-filtered analysis of Indian respondents.
 - **README.md** — Project documentation.
@@ -76,7 +77,7 @@ The dashboards include:
 ## 🚀 How to Explore This Project
 
 1. Clone or download this repository.
-2. Open the [cleaned Excel dataset](cleaned-survey-data-for-eda.xlsx) to inspect the survey data.
+2. Open the **[📥Cleaned Survey Dataset](1791608093788-clean%20Survey%20Data.zip)** to inspect the survey data.
 3. Open the screenshots in the `images/` folder to preview both dashboards.
 4. Open the `.pbix` file in Power BI Desktop if you add the interactive report to this repository.
 5. Explore the data and use AI assistance to investigate patterns and develop further analytical questions.
